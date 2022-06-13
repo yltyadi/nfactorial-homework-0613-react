@@ -1,0 +1,27 @@
+.navbar-container {
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 50px;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.icon-wrapper {
+    padding: 13px;
+    display: flex;
+}
+
+input {
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 20%;
+    border: none;
+    height: 10px;
+}
+
+.timer {
+    color: white;
+    margin-right: 20px;
+}
